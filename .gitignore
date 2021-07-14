@@ -5,6 +5,8 @@ target/
 !**/src/test/**/target/
 
 ### STS ###
+.*
+.gitignore
 .apt_generated
 .classpath
 .factorypath
@@ -12,6 +14,7 @@ target/
 .settings
 .springBeans
 .sts4-cache
+.mvn
 
 ### IntelliJ IDEA ###
 .idea
